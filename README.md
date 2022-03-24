@@ -1,4 +1,5 @@
-# Olá me chamo Rafael Santos e sou grande intusiasta de Python e SQL, migrando para carreira de Data Science e Machine Learning
+# Olá, me chamo Rafael Santos e sou grande entusiasta de Python e SQL
+# Migrando para carreira de Data Science e Machine Learning
 <div align="center">
   <a href="https://github.com/Rafael-T-Santos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-t-santos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
