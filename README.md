@@ -1,4 +1,4 @@
-# Olá, me chamo Rafael Santos e sou grande entusiasta de Python e SQL
+# Olá, me chamo Rafael e sou grande entusiasta de Python e SQL
 # Migrando para carreira de Data Science e Machine Learning
 <div align="center">
   <a href="https://github.com/Rafael-T-Santos">
