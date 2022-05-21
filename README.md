@@ -17,5 +17,18 @@
   <a href = "mailto:dev.rafaelsantos@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.hackerrank.com/dev_rafaelsantos" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a> 
 
- 
+  ## WIP - Work In Progress
+  
+### Conteúdos:
+  - TERA:
+    - ~~Desafio Inferência~~
+    - ~~Desafio Classificação~~
+    - ~~Desafio Regressão~~
+    - ~~Desafio Ensembles~~
+    - ~~Desafio Clustering~~
+    - ~~Desafio Séries Temporaris~~
+    - ~~Projeto Final de Curso~~
+  
+  - Projetos Pessoais:
+    
 </div>
