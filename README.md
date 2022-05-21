@@ -30,5 +30,8 @@
     - ~~Projeto Final de Curso~~
   
   - Projetos Pessoais:
-    
+    - ~~Consulta Contribuintes~~
+    - ~~Download img roms~~
+    - ~~Consultas Questor~~
+    - 
 </div>
