@@ -30,7 +30,7 @@
     - ~~Projeto Final de Curso~~
   
   - Projetos Pessoais:
-    - ~~Consulta Contribuintes~~
+    - [Consulta Contribuintes](https://github.com/Rafael-T-Santos/Consulta-Contribuintes)
     - [Download Imagens Roms](https://github.com/Rafael-T-Santos/request_imagens)
     - ~~Consultas Questor~~
     
