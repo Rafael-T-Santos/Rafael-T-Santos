@@ -33,6 +33,7 @@
     - [Consulta Contribuintes](https://github.com/Rafael-T-Santos/Consulta-Contribuintes)
     - [Download Imagens Roms](https://github.com/Rafael-T-Santos/request_imagens)
     - [Associaton Rules Comparator](https://github.com/Rafael-T-Santos/TERA-Association_Rules_Comparator)
-    - ~~Consultas Questor~~
+    - [Consultas Questor V1](https://github.com/Rafael-T-Santos/Consultas-questor-old)
+    - [Consultas Questor V2](https://github.com/Rafael-T-Santos/Consultas-questor)
     
 </div>
