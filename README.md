@@ -27,7 +27,7 @@
     - ~~Desafio Ensembles~~
     - ~~Desafio Clustering~~
     - ~~Desafio Séries Temporaris~~
-    - ~~Projeto Final de Curso~~
+    - [Projeto Final de Curso](https://github.com/Rafael-T-Santos/TERA-Recomendacao)
   
   - Projetos Pessoais:
     - [Consulta Contribuintes](https://github.com/Rafael-T-Santos/Consulta-Contribuintes)
