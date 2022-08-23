@@ -37,6 +37,6 @@
     - [Associaton Rules Comparator](https://github.com/Rafael-T-Santos/TERA-Association_Rules_Comparator)
     - [Consultas Questor V1](https://github.com/Rafael-T-Santos/Consultas-questor-old)
     - [Consultas Questor V2](https://github.com/Rafael-T-Santos/Consultas-questor)
-    - [Reconhecimento de mão](https://github.com/Rafael-T-Santos/hand_recognization)
+    - [Reconhecimento de Gestos](https://github.com/Rafael-T-Santos/hand_recognization)
     
 </div>
