@@ -8,7 +8,14 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-t-santos&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="center" alt="Python" height="40" width="40" >
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" align="center" alt="arduino" width="40" height="40"> 
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" align="center" alt="mssql" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" align="center" alt="oracle" width="40" height="40"> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" align="center" alt="postman" width="40" height="40"> 
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" align="center" alt="selenium" width="40" height="40">
+
+
 </div>
   
   ##
