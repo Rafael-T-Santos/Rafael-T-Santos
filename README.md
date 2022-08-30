@@ -1,5 +1,4 @@
 # Olá, me chamo Rafael e sou grande entusiasta de Python e SQL
-# Migrando para carreira de dados
 <div align="center">
   <a href="https://github.com/Rafael-T-Santos">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafael-t-santos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
