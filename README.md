@@ -2,11 +2,10 @@
 <div align="center">
   <a href="https://github.com/Rafael-T-Santos">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafael-t-santos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-t-santos&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-t-santos&layout=compact&langs_count=7&theme=algolia"/>
-</div>
-<div style="display: inline_block"><br>
+
+<div align="center", style="display: inline_block">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="center" alt="Python" height="40" width="40" >
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" align="center" alt="arduino" width="40" height="40"> 
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" align="center" alt="mssql" width="40" height="40">
