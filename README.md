@@ -28,12 +28,6 @@
   
 ### Conteúdos:
   - TERA:
-    - ~~Desafio Inferência~~
-    - ~~Desafio Classificação~~
-    - ~~Desafio Regressão~~
-    - ~~Desafio Ensembles~~
-    - ~~Desafio Clustering~~
-    - ~~Desafio Séries Temporaris~~
     - [Projeto Final de Curso](https://github.com/Rafael-T-Santos/TERA-Recomendacao)
   
   - Projetos Pessoais:
